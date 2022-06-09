@@ -1,0 +1,22 @@
+.body{
+    background-color: rgb(247, 247, 130);
+
+}
+.logo img{
+    width: 50px;
+}
+.inicio img{
+    width: 50%;
+}
+
+.ul ,li{
+    text-decoration: none;
+    list-style-type: none;
+}
+.icono img{
+    width: 30px;
+}
+
+.body-container{
+    background-color: #fcfc82;;
+}
